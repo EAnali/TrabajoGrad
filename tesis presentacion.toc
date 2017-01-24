@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Historia de la Teoría de Juegos}{3}{0}{1}
+\beamer@sectionintoc {2}{Teoría de Probabilidad}{5}{0}{2}
+\beamer@sectionintoc {3}{Teoría de la Utilidad}{6}{0}{3}
+\beamer@sectionintoc {4}{Conceptos básicos de la Teoría de Juegos}{7}{0}{4}

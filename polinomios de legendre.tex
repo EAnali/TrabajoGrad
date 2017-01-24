@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{mathtools}
+\usepackage{amsfonts,amsmath,amssymb,amsthm,mathrsfs}
+
+\begin{document}
+
+\begin{flushleft}
+	Universidad de San Carlos de Guatemala\\
+	Escuela de Ciencias Físicas y Matemáticas\\
+	Análisis Funcional 2\\
+	Emilene Analí Romero\\
+	Carné: 201213113
+\end{flushleft}
+
+\begin{center}
+	\textit{\underline{Función Generatriz de los Polinomios de Legendre}}
+\end{center}
+	
+\textbf{(Función Generatriz)} Mostrar que:
+
+\begin{equation*} %esta bien
+\dfrac{1}{\sqrt{1-2wt+w^{2}}}=\sum\limits_{n=0}^\infty P_{n}(t)w^{n}
+\end{equation*}
+
+La función de la izquierda es conocida como \textit{la función generatriz} de los polinomios de Legendre.\\
+	
+\textbf{Solución:}\\
+	
+Se tiene que la función $f(w,t)=(1-2wt+w^{2})^{-1/2}$, puede escribirse como:
+	
+\begin{equation*} %esta bien
+(1-2wt+w^{2})^{-1/2}=[1-w(2t-w)]^{-1/2}
+\end{equation*}
+	
+Entonces haciendo uso de la siguiente fórmula: 
+	
+\begin{equation*} %esta bien
+\sum\limits_{n=0}^\infty\dfrac{(\alpha)_{n}}{n!}z^{n}=(1-z)^{-\alpha}
+\end{equation*}
+
+entonces al reemplazar $z=2wt+w^{2}$ y $\alpha=\dfrac{1}{2}$ se obtiene:
+
+\begin{equation*}
+(1-2wt+w^{2})^{-1/2}=\sum\limits_{n=0}^\infty\dfrac{(1/2)_{n}}{n!}(2wt+w^{2})^{n}=\sum\limits_{n=0}^\infty\dfrac{(1/2)_{n}}{n!}w^{n}(2t+w)^{n}
+\end{equation*}	
+
+de donde se tiene que:\\
+
+\begin{equation*}
+\begin{array}{lll}
+(1/2)_{n}=\dfrac{\Gamma(n+1/2)}{\Gamma(1/2)}=\dfrac{1\cdot3\cdot5\cdot\cdots\cdot(2n-1)}{2^{2}} &para &n=1,2,...
+\end{array}
+\end{equation*}
+
+por lo que:\\
+
+\begin{equation*}
+\begin{array}{lll}
+(1-2wt+w^{2})^{-1/2}&=&1+\sum\limits_{n=0}^\infty\dfrac{1\cdot3\cdot5\cdots\cdot(2n-1)}{2^{n}n!}w^{n}(2t-w)^{n}\\
+ &=&1+\dfrac{1}{2\cdot1!}w(2t-w)+\dfrac{1\cdot3}{2^{2}2!}w^{2}(2t-w)^{2}+\dfrac{1\cdot3\cdot5}{2^{3}3!}w^{3}(2t-w)^{3}+\\
+  & &+...+\dfrac{1\cdot3\cdot5\cdots(2n-3)}{2^{n-1}(n-1)!}w^{n-1}(2t-w)^{n-1}+\\
+   & &+\dfrac{1\cdot3\cdot5\cdots(2n-1)}{2^{n}n!}w^{n}(2t-w)^{n}+... 
+\end{array}
+\end{equation*}
+
+Sean $a_{n}(t)$ los coeficientes de $t^{n}$ entonces se tiene que:\\
+
+\begin{equation*}
+	\begin{array}{lll}
+	a_{n}(t)&=&\dfrac{1\cdot3\cdot5\cdots(2n-1)}{2^{2}n!}(2t)^{n}-\dfrac{1\cdot3\cdot5\cdots(2n-3)}{2^{n-1}(n-1)!}\dfrac{(n-1)}{1!}(2t)^{n-2}+\\
+	& &+\dfrac{1\cdot3\cdot5\cdots(2n-5)}{2^{n-2}(n-2)!}\dfrac{(n-2)(n-3)}{2!}(2t)^{n-4}-+\cdots
+	\end{array}
+\end{equation*}
+
+Entonces haciendo uso de la siguiente identidad:\\
+
+\begin{equation*}
+1\cdot3\cdot5\cdots(2n-1)=\dfrac{(2n)!}{2^{n}n!}
+\end{equation*}
+
+de donde $a_{n}(t)$ se reduce a:\\
+
+\begin{equation*}
+\begin{array}{lll}
+a_{n}(t)&=&\dfrac{(2n)!}{2^{n}n!n!}t^{n}-\dfrac{(2n-2)!}{2^{n}1!(n-1)!(n-2)!}t^{n-2}\\
+&&+\dfrac{(2n-4)!}{2^{n}2!(n-2)!(n-4)!}t^{n-4}-+\cdots\\
+&=&\sum\limits_{j=0}^{n}(-1)^{j}\dfrac{(2n-2j)!}{2^{n}j!(n-j)!(n-2j)!}t^{n-2j}\\
+&=&P_{n}(t)
+\end{array}
+\end{equation*}
+
+
+
+\end{document}

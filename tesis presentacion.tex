@@ -1,0 +1,179 @@
+\documentclass[10pt]{beamer}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[utf8]{inputenc}
+
+\usetheme[progressbar=frametitle]{metropolis}
+
+\usepackage{booktabs}
+\usepackage[scale=2]{ccicons}
+\usepackage[spanish,es-tabla]{babel}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{dateplot}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\title{Teoría de Juegos}
+\subtitle{}
+\date{Guatemala, \today}
+\author{Emilene A. Romero M.}
+\institute{Universidad de San Carlos de Guatemala}
+\titlegraphic{\hfill\includegraphics[height=1.5cm]{escudo}}
+
+\begin{document}
+
+\maketitle
+
+\begin{frame}{Tabla de Contenidos}
+  \setbeamertemplate{section in toc}[sections numbered]
+  \tableofcontents[hideallsubsections]
+\end{frame}
+
+\section{Historia de la Teoría de Juegos}
+
+\begin{frame}[fragile]{Principales Aportaciones}
+	\begin{itemize}
+		\item John Von Neumann y Oskar Morgenstern (1944) \textit{The Theory of Games and Economic Behavior}
+		\item James Waldegrave (1713) \textit{Teorema del Minimax}
+		\item Ernst Zermelo (1913) \textit{El ajedrez está estrictamente determinado}
+		\item Emile Borel (1921-1927) \textit{"Solución Minimax", dos personas y 3-5 estrategias posbiles}
+		\item John Nash (1953) \textit{"Teoía de Juegos No cooperativos y a la teoría de negociación"}
+		
+	\end{itemize}
+\end{frame}
+
+\section{Teoría de Probabilidad}
+
+\section{Teoría de la Utilidad}
+
+\section{Conceptos básicos de la Teoría de Juegos}
+
+\begin{frame}[fragile]{Definiciones Previas}
+	
+	Sean A y B jugadores, con intereses opuestos.
+
+ \begin{itemize}
+ 	\item \textit{Juego}
+ 	\item\textit{Tipos de Juego}
+ 	\item\textit{Jugada}
+ 	\item\textit{Tipos de Jugada}
+ 	
+ 	\end{itemize}
+ 	
+  
+\end{frame}
+\begin{frame}[fragile]{Definiciones Previas}
+  
+  \begin{itemize}
+  \item\textit{Estrategia}
+  \item \textit{Resultado}
+  \item \textit{Juego de suma cero}
+  \item\textit{Juego de información perfecta}
+
+
+  	\end{itemize}
+  
+\end{frame}
+
+\begin{frame}[fragile]{Definiciones Previas}
+	
+	\begin{itemize}
+		\item\textit{Juegos de mxn}\\
+		\begin{table}
+			\begin{tabular}{|c|c|c|c|c|}
+				\hline 
+				$A \diagdown B$ & $B_{1}$ & $B_{2}$ & ... & $B_{n}$ \\ 
+				\hline 
+				$A_{1}$ & $a_{11}$ & $a_{12}$ & ... & $a_{1n}$ \\ 
+				\hline 
+				$A_{2}$ & $a_{21}$ & $a_{22}$ & ... & $a_{2n}$ \\ 
+				\hline 
+				$\colon$& $\colon$ & $\colon$ & $\ddots$ & $\colon$ \\ 
+				\hline 
+				$A_{m}$ & $a_{m1}$ & $a_{m2}$ & ... & $a_{mn}$ \\ 
+				\hline 
+			\end{tabular} 
+		\end{table}
+		\item\textit{Estrategia Óptima}
+		\item\textit{Estrategia Mixta}
+		
+	\end{itemize}
+	
+\end{frame}
+\begin{frame}[fragile]{Definiciones Previas}
+	
+	\begin{itemize}
+		\item\textit{El Principio \textbf{\textit{minimax}}}: 
+		\begin{table}
+			\begin{tabular}{|c|c|c|c|c||c|}
+				\hline 
+				$A \diagdown B$ & $B_{1}$ & $B_{2}$ & ... & $B_{n}$ & $\alpha_{i}$ \\ 
+				\hline 
+				$A_{1}$ & $a_{11}$ & $a_{12}$ & ... & $a_{1n}$ & $\alpha_{1}$ \\ 
+				\hline 
+				$A_{2}$ & $a_{21}$ & $a_{22}$ & ... & $a_{2n}$ & $\alpha_{2}$ \\ 
+				\hline 
+				... & ... & ... & ... & ... & ... \\ 
+				\hline 
+				$A_{m}$ &$ a_{m1}$ & $a_{m2}$ & ... & $a_{mn}$ & $\alpha_{m}$ \\ 
+				\hline 
+				\hline
+				$\beta_{j}$ & $\beta_{1}$ & $\beta_{2}$ & ... & $\beta_{n}$ &\\
+				\hline
+			\end{tabular} 
+		\end{table}
+		\item \textit{maximin} $\alpha=\smash{\displaystyle\max_{j}\min_{i}}$ $a_{ij}$
+		\item \textit{minimax} $\beta=\smash{\displaystyle\min_{j}\max_{i}}$ $a_{ij}$
+		\item \textit{punto silla} $\alpha=\beta$
+		
+		
+	\end{itemize}
+	
+	
+\end{frame}
+
+\begin{frame}[fragile]{Definiciones Previas}	
+	\begin{itemize}
+		\item\textit{Ejemplo 1:} Cada uno de los jugadores A y B escribe un número, 1,2 ó 3, simultáneamente e independientemente. Si la suma de los dos números es par, B paga a A la suma en quetzales; si la suma de los números es impar, A paga a B.
+		\begin{table}
+			\begin{tabular}{|c|c|c|c||c|}
+				\hline 
+				$A \diagdown B$ & $B_{1}$ & $B_{2}$ & $B_{3}$ & $\alpha_{i}$ \\ 
+				\hline 
+				$A_{1}$ & 2 & -3 & 4 & -3 \\ 
+				\hline 
+				$A_{2}$ & -3 & 4 & -5 & -5  \\ 
+				\hline 
+				$A_{3}$& 4 & -5 & 6 & -5 \\ 
+				\hline 
+				\hline
+				$\beta_{j}$ & 4 & 4 & 6 &  \\
+				\hline
+			\end{tabular} 
+		\end{table}	
+	\end{itemize}
+\end{frame}
+\begin{frame}[fragile]{Definiciones Previas}	
+	\begin{itemize}
+		\item\textit{Ejemplo 2:} 
+		\begin{table}
+			\begin{tabular}{|c|c|c|c|c||c|}
+				\hline 
+				$A \diagdown B$ & $B_{1}$ & $B_{2}$ & $B_{3}$ & $B_{4}$ & $\alpha_{i}$ \\ 
+				\hline 
+				$A_{1}$ & 0.4 & 0.5 & 0.9 & 0.3 & 0.3 \\ 
+				\hline 
+				$A_{2}$ & 0.8 & 0.4 & 0.3  & 0.7 &  0.3 \\ 
+				\hline 
+				$A_{3}$& 0.7 & 0.6 & 0.8 &  0.9 &  \textbf{0.6} \\ 
+				\hline 
+				$A_{4}$& 0.7 & 0.2 & 0.4 & 0.6 & 0.2\\
+				\hline
+				$\beta_{j}$ & 0.8 & \textbf{0.6} & 0.9 & 0.9 &  \\
+				\hline
+			\end{tabular} 
+		\end{table}	
+	\end{itemize}
+\end{frame}
+\end{document}
