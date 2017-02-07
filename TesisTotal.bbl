@@ -1,6 +1,79 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+E.~Cerdá~Tena%
+}{%
+E.~Cerdá~Tena%
+}{%
+{\protect \APACyear {Madrid, 2004}}%
+}]{%
+TJperez}
+\APACinsertmetastar {%
+TJperez}%
+\begin{APACrefauthors}%
+E.~Cerdá~Tena, J\BPBI L\BPBI J\BPBI P., J. Pérez~Navarro.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{Madrid, 2004}.
+\newblock
+\APACrefbtitle {Teoría de Juegos} {Teoría de juegos}\ (D\BPBI F.~Aragón,
+  \BED{}).
+\newblock
+\APACaddressPublisher{}{Pearson Educación, S.A.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fudenberg%
+\ \BBA {} Tirole%
+}{%
+Fudenberg%
+\ \BBA {} Tirole%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+9780262061414}
+\APACinsertmetastar {%
+9780262061414}%
+\begin{APACrefauthors}%
+Fudenberg, D.%
+\BCBT {}\ \BBA {} Tirole, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{{\protect \bibnodate {}}}.
+\newblock
+\APACrefbtitle {Game Theory} {Game theory}.
+\newblock
+\APACaddressPublisher{}{The MIT Press}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.ebook.de/de/product/3241100/drew_fudenberg_jean_tirole_game_theory.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Griffin%
+}{%
+Griffin%
+}{%
+{\protect \APACyear {2010-2012}}%
+}]{%
+math486}
+\APACinsertmetastar {%
+math486}%
+\begin{APACrefauthors}%
+Griffin, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010-2012}{}{}.
+\newblock
+\APACrefbtitle {Game Theory: Penn State Math 486 Lecture Notes.} {Game theory:
+  Penn state math 486 lecture notes.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Molina%
 }{%
 Molina%
