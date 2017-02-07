@@ -110,19 +110,20 @@
 %\include{introduccion}      % Introducción
 
 \mainmatter     % --------------------------------------------------  Cuerpo del Trabajo de Graduación
-
+\nocite{*}
 \include{tch1a}      % Cap. 1 
 
 \include{tch2}      % Cap. 2 
 
 %\include{tch3}      % Cap. 3 
 
-\backmatter     % --------------------------------------------------  Apartados finales
+{\backmatter     % --------------------------------------------------  Apartados finales
 
 \include{c_y_r}     % Conclusiones y recomendaciones
+\bibliographystyle{apacite}
+\bibliography{bibliotesis}   % Bibliografía
 
-%\include{bbtesis}   % Bibliografía
-
+}
 \par}               % termina interlineado 1 1/2
 
 \end{document}

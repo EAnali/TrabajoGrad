@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Molina%
+}{%
+Molina%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+art}
+\APACinsertmetastar {%
+art}%
+\begin{APACrefauthors}%
+Molina, R\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Los grandes hitos de la Teoría de Juegos} {Los grandes
+  hitos de la teoría de juegos}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista Digital de Educación}{Volumen I}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
