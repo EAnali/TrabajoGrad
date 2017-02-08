@@ -1,6 +1,103 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Cichon%
+, Hagemejer%
+\BCBL {}\ \BBA {} Scholtz%
+}{%
+Cichon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2000}}%
+}]{%
+ILOqmsps}
+\APACinsertmetastar {%
+ILOqmsps}%
+\begin{APACrefauthors}%
+Cichon, M.%
+, Hagemejer, K.%
+\BCBL {}\ \BBA {} Scholtz, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Social Budgeting} {Social budgeting}.
+\newblock
+\APACaddressPublisher{}{Brookings Inst Pr}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Social-Budgeting-Michael-Cichon/dp/9221108619%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108619}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cichon%
+\ \protect \BOthers {.}}{%
+Cichon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+ILOfsp}
+\APACinsertmetastar {%
+ILOfsp}%
+\begin{APACrefauthors}%
+Cichon, M.%
+, Scholz, W.%
+, van~de Meerendonk, A.%
+, Hagemejer, K.%
+, Bertranou, F.%
+\BCBL {}\ \BBA {} Plamondon, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Financing Social Protection (Quantitative Methods in Social
+  Protection)} {Financing social protection (quantitative methods in social
+  protection)}.
+\newblock
+\APACaddressPublisher{}{International Labor Office}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/9221151220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cichon%
+\ \protect \BOthers {.}}{%
+Cichon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1999}}%
+}]{%
+OITmhcf}
+\APACinsertmetastar {%
+OITmhcf}%
+\begin{APACrefauthors}%
+Cichon, M.%
+, Yamabana, H.%
+, Weber, A.%
+, Newbrander, W\BPBI C.%
+, Normand, C.%
+, Dror, D.%
+\BCBL {}\ \BBA {} Preker, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Modelling in Health Care Finance: A Compendium of Quantitative
+  Techniques for Health Care Financing} {Modelling in health care finance: A
+  compendium of quantitative techniques for health care financing}.
+\newblock
+\APACaddressPublisher{}{International Labor Office}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Modelling-Health-Care-Finance-Quantitative/dp/9221108627%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108627}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 E.~Cerdá~Tena%
 }{%
 E.~Cerdá~Tena%
@@ -53,6 +150,33 @@ Fudenberg, D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gibbons%
+}{%
+Gibbons%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+gtgibbons}
+\APACinsertmetastar {%
+gtgibbons}%
+\begin{APACrefauthors}%
+Gibbons, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1992}.
+\newblock
+\APACrefbtitle {Game Theory for Applied Economists} {Game theory for applied
+  economists}.
+\newblock
+\APACaddressPublisher{}{PRINCETON UNIV PR}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.ebook.de/de/product/2519019/robert_gibbons_game_theory_for_applied_economists.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Griffin%
 }{%
 Griffin%
@@ -71,6 +195,88 @@ Griffin, C.%
 \newblock
 \APACrefbtitle {Game Theory: Penn State Math 486 Lecture Notes.} {Game theory:
   Penn state math 486 lecture notes.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {The ILO Pension Model A Technical Guide}}{%
+\APACciteatitle {The ILO Pension Model A Technical Guide}}{%
+{\protect \APACyear {2002}}%
+}]{%
+ILOpm}
+\APACinsertmetastar {%
+ILOpm}%
+{\BBOQ}\APACrefatitle {The ILO Pension Model A Technical Guide} {The ilo
+  pension model a technical guide}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{2002}{{\APACmonth{08}}}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACciteatitle {The ILO Population Projection Model (ILO-POP) A Technical
+  Guide}}{%
+\APACciteatitle {The ILO Population Projection Model (ILO-POP) A Technical
+  Guide}}{%
+{\protect \APACyear {2002}}%
+}]{%
+ILOm}
+\APACinsertmetastar {%
+ILOm}%
+{\BBOQ}\APACrefatitle {The ILO Population Projection Model (ILO-POP) A
+  Technical Guide} {The ilo population projection model (ilo-pop) a technical
+  guide}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\APACrefYearMonthDay{2002}{{\APACmonth{08}}}{}.
+\newblock
+\APACaddressPublisher{Financial, Actuarial and Statistical Services Branch
+  Social Protection Sector International Labour Office 4 route des Morillons
+  CH-1211 Geneva 22 Switzerland}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Introduction to Social Security}}{%
+\APACcitebtitle {Introduction to Social Security}}{%
+{\protect \APACyear {1984}}%
+}]{%
+OITintross}
+\APACinsertmetastar {%
+OITintross}%
+\APACrefbtitle {Introduction to Social Security} {Introduction to social
+  security}.
+\newblock
+\APACrefYear{1984}.
+\newblock
+\APACaddressPublisher{}{International Labour Org}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Introduction-to-Social-Security/dp/9221036383%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221036383}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Iyer%
+}{%
+Iyer%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+OITamssp}
+\APACinsertmetastar {%
+OITamssp}%
+\begin{APACrefauthors}%
+Iyer, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Actuarial Mathematics of Social Security Pensions} {Actuarial
+  mathematics of social security pensions}.
+\newblock
+\APACaddressPublisher{}{International Labour Org}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Actuarial-Mathematics-Social-Security-Pensions/dp/922110866X%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D922110866X}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -94,6 +300,66 @@ Molina, R\BPBI S.%
   hitos de la teoría de juegos}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Revista Digital de Educación}{Volumen I}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Plamondon%
+\ \protect \BOthers {.}}{%
+Plamondon%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+OITapss}
+\APACinsertmetastar {%
+OITapss}%
+\begin{APACrefauthors}%
+Plamondon, P.%
+, Drouin, A.%
+, Binet, G.%
+, Cichon, M.%
+, McGillivray, W\BPBI R.%
+, Bedard, M.%
+\BCBL {}\ \BBA {} Perez-Montas, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {Actuarial Practice in Social Security (Quantitative Methods in
+  Social Protection)} {Actuarial practice in social security (quantitative
+  methods in social protection)}.
+\newblock
+\APACaddressPublisher{}{International Labor Office}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.amazon.com/Actuarial-Practice-Security-Quantitative-Protection/dp/9221108635%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Starr%
+}{%
+Starr%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+tgross}
+\APACinsertmetastar {%
+tgross}%
+\begin{APACrefauthors}%
+Starr, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2011}.
+\newblock
+\APACrefbtitle {General Equilibrium Theory} {General equilibrium theory}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.ebook.de/de/product/19924820/ross_m_starr_general_equilibrium_theory.html}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
