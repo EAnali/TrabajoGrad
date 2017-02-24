@@ -15,45 +15,99 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliotesis.bib
+"{" immediately follows a field name---line 33 of file bibliotesis.bib
+ : @Book
+ :      {OITmhcf,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 113 of file bibliotesis.bib
+ :  author    = {Pierre Plamondon and Anne Drouin and Gylles Binet and Michael Cichonk nd Warren R. McGillivrayKrzysztof Hagemejer and Michel Bedard and HernFabio Bertranou rre Plamondon},             
+ :                                                                                                                                                                                                       {92-2-110863-55122-0},               {https://www.amazon.com/Actuarial-Practice-SecurityFinancing-Social-Protection-Quantitative-ProtectionMethods/dp/922110863551220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635},
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "art"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 14 entries,
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5062 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5062 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5072 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5072 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5075 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5075 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5076 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5076 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
+while executing---line 5079 of file apacite.bst
+You've used 8 entries,
             6951 wiz_defined-function locations,
-            1351 strings with 14105 characters,
-and the built_in function-call counts, 23357 in all, are:
-= -- 2895
-> -- 176
-< -- 974
-+ -- 1013
-- -- 22
-* -- 1380
-:= -- 3987
-add.period$ -- 54
-call.type$ -- 14
-change.case$ -- 226
+            1322 strings with 12699 characters,
+and the built_in function-call counts, 14080 in all, are:
+= -- 1774
+> -- 115
+< -- 561
++ -- 661
+- -- 14
+* -- 825
+:= -- 2366
+add.period$ -- 31
+call.type$ -- 8
+change.case$ -- 135
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 684
-empty$ -- 1132
-format.name$ -- 313
-if$ -- 4649
+cite$ -- 16
+duplicate$ -- 445
+empty$ -- 653
+format.name$ -- 199
+if$ -- 2795
 int.to.chr$ -- 0
-int.to.str$ -- 42
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 328
-num.names$ -- 90
-pop$ -- 775
+newline$ -- 194
+num.names$ -- 58
+pop$ -- 370
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 31
 quote$ -- 0
-skip$ -- 1339
+skip$ -- 860
 stack$ -- 0
-substring$ -- 1106
-swap$ -- 348
-text.length$ -- 31
+substring$ -- 738
+swap$ -- 221
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1180
+type$ -- 664
 warning$ -- 0
-while$ -- 115
+while$ -- 70
 width$ -- 0
-write$ -- 398
+write$ -- 234
+(There were 24 error messages)

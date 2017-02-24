@@ -59,177 +59,31 @@ Cichon, M.%
 \APACaddressPublisher{}{International Labor Office}.
 \newblock
 \begin{APACrefURL}
-  \url{https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/9221151220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220}
+  \url{https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/922115122003FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220036383}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cichon%
-\ \protect \BOthers {.}}{%
-Cichon%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1999}}%
+Galé%
+}{%
+Galé%
+}{%
+{\protect \APACyear {1978}}%
 }]{%
-OITmhcf}
+gale}
 \APACinsertmetastar {%
-OITmhcf}%
+gale}%
 \begin{APACrefauthors}%
-Cichon, M.%
-, Yamabana, H.%
-, Weber, A.%
-, Newbrander, W\BPBI C.%
-, Normand, C.%
-, Dror, D.%
-\BCBL {}\ \BBA {} Preker, A.%
+Galé, J\BPBI G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{1999}.
+\APACrefYear{1978}.
 \newblock
-\APACrefbtitle {Modelling in Health Care Finance: A Compendium of Quantitative
-  Techniques for Health Care Financing} {Modelling in health care finance: A
-  compendium of quantitative techniques for health care financing}.
+\APACrefbtitle {Elementos de Cálculo Actuarial} {Elementos de cálculo
+  actuarial}\ (\PrintOrdinal{Quinta Edición}\ \BEd).
 \newblock
-\APACaddressPublisher{}{International Labor Office}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.amazon.com/Modelling-Health-Care-Finance-Quantitative/dp/9221108627%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108627}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-E.~Cerdá~Tena%
-}{%
-E.~Cerdá~Tena%
-}{%
-{\protect \APACyear {Madrid, 2004}}%
-}]{%
-TJperez}
-\APACinsertmetastar {%
-TJperez}%
-\begin{APACrefauthors}%
-E.~Cerdá~Tena, J\BPBI L\BPBI J\BPBI P., J. Pérez~Navarro.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{Madrid, 2004}.
-\newblock
-\APACrefbtitle {Teoría de Juegos} {Teoría de juegos}\ (D\BPBI F.~Aragón,
-  \BED{}).
-\newblock
-\APACaddressPublisher{}{Pearson Educación, S.A.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Fudenberg%
-\ \BBA {} Tirole%
-}{%
-Fudenberg%
-\ \BBA {} Tirole%
-}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
-}]{%
-9780262061414}
-\APACinsertmetastar {%
-9780262061414}%
-\begin{APACrefauthors}%
-Fudenberg, D.%
-\BCBT {}\ \BBA {} Tirole, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{{\protect \bibnodate {}}}.
-\newblock
-\APACrefbtitle {Game Theory} {Game theory}.
-\newblock
-\APACaddressPublisher{}{The MIT Press}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.ebook.de/de/product/3241100/drew_fudenberg_jean_tirole_game_theory.html}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gibbons%
-}{%
-Gibbons%
-}{%
-{\protect \APACyear {1992}}%
-}]{%
-gtgibbons}
-\APACinsertmetastar {%
-gtgibbons}%
-\begin{APACrefauthors}%
-Gibbons, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1992}.
-\newblock
-\APACrefbtitle {Game Theory for Applied Economists} {Game theory for applied
-  economists}.
-\newblock
-\APACaddressPublisher{}{PRINCETON UNIV PR}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.ebook.de/de/product/2519019/robert_gibbons_game_theory_for_applied_economists.html}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Griffin%
-}{%
-Griffin%
-}{%
-{\protect \APACyear {2010-2012}}%
-}]{%
-math486}
-\APACinsertmetastar {%
-math486}%
-\begin{APACrefauthors}%
-Griffin, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010-2012}{}{}.
-\newblock
-\APACrefbtitle {Game Theory: Penn State Math 486 Lecture Notes.} {Game theory:
-  Penn state math 486 lecture notes.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACciteatitle {The ILO Pension Model A Technical Guide}}{%
-\APACciteatitle {The ILO Pension Model A Technical Guide}}{%
-{\protect \APACyear {2002}}%
-}]{%
-ILOpm}
-\APACinsertmetastar {%
-ILOpm}%
-{\BBOQ}\APACrefatitle {The ILO Pension Model A Technical Guide} {The ilo
-  pension model a technical guide}{\BBCQ}\ [\bibcomputersoftwaremanual].
-\newblock
-\APACrefYearMonthDay{2002}{{\APACmonth{08}}}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACciteatitle {The ILO Population Projection Model (ILO-POP) A Technical
-  Guide}}{%
-\APACciteatitle {The ILO Population Projection Model (ILO-POP) A Technical
-  Guide}}{%
-{\protect \APACyear {2002}}%
-}]{%
-ILOm}
-\APACinsertmetastar {%
-ILOm}%
-{\BBOQ}\APACrefatitle {The ILO Population Projection Model (ILO-POP) A
-  Technical Guide} {The ilo population projection model (ilo-pop) a technical
-  guide}{\BBCQ}\ [\bibcomputersoftwaremanual].
-\newblock
-\APACrefYearMonthDay{2002}{{\APACmonth{08}}}{}.
-\newblock
-\APACaddressPublisher{Financial, Actuarial and Statistical Services Branch
-  Social Protection Sector International Labour Office 4 route des Morillons
-  CH-1211 Geneva 22 Switzerland}{}.
+\APACaddressPublisher{}{Ediciones Macchi}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -280,26 +134,27 @@ Iyer, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Molina%
+Newton L.~Bowers%
 }{%
-Molina%
+Newton L.~Bowers%
 }{%
-{\protect \APACyear {2007}}%
+{\protect \APACyear {1997}}%
 }]{%
-art}
+bowers}
 \APACinsertmetastar {%
-art}%
+bowers}%
 \begin{APACrefauthors}%
-Molina, R\BPBI S.%
+Newton L.~Bowers, H\BPBI U\BPBI G\BPBI J\BPBI C\BPBI H\BPBI D\BPBI A\BPBI
+  J\BPBI y\BPBI C\BPBI J\BPBI N., JR.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2007}{}{}.
+\APACrefYear{1997}.
 \newblock
-{\BBOQ}\APACrefatitle {Los grandes hitos de la Teoría de Juegos} {Los grandes
-  hitos de la teoría de juegos}.{\BBCQ}
+\APACrefbtitle {Actuarial Mathematics} {Actuarial mathematics}\
+  (\PrintOrdinal{Segunda Edicion}\ \BEd; D.~Anderson, \BED{}).
 \newblock
-\APACjournalVolNumPages{Revista Digital de Educación}{Volumen I}{}{}.
+\APACaddressPublisher{}{The Society of Acturies}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -316,50 +171,42 @@ OITapss}%
 Plamondon, P.%
 , Drouin, A.%
 , Binet, G.%
-, Cichon, M.%
-, McGillivray, W\BPBI R.%
+, nd Warren R. McGillivrayKrzysztof~Hagemejer, M\BPBI C.%
 , Bedard, M.%
-\BCBL {}\ \BBA {} Perez-Montas, H.%
+\BCBL {}\ \BBA {} rre Plamondon, H\BPBI B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYear{2003}.
 \newblock
-\APACrefbtitle {Actuarial Practice in Social Security (Quantitative Methods in
-  Social Protection)} {Actuarial practice in social security (quantitative
+\APACrefbtitle {Actuarial Practice ing ocial SecurityProtectitative Methods in
+  Social Protection)} {Actuarial practice ing ocial securityprotectitative
   methods in social protection)}.
 \newblock
 \APACaddressPublisher{}{International Labor Office}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.amazon.com/Actuarial-Practice-Security-Quantitative-Protection/dp/9221108635%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Starr%
+Promislow%
 }{%
-Starr%
+Promislow%
 }{%
-{\protect \APACyear {2011}}%
+{\protect \APACyear {2015}}%
 }]{%
-tgross}
+wiley}
 \APACinsertmetastar {%
-tgross}%
+wiley}%
 \begin{APACrefauthors}%
-Starr, R\BPBI M.%
+Promislow, S\BPBI D.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2011}.
+\APACrefYear{2015}.
 \newblock
-\APACrefbtitle {General Equilibrium Theory} {General equilibrium theory}.
+\APACrefbtitle {Fundamentals of Actuarial Mathematics} {Fundamentals of
+  actuarial mathematics}\ (\PrintOrdinal{Tercera Edición}\ \BEd).
 \newblock
-\APACaddressPublisher{}{Cambridge University Press}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.ebook.de/de/product/19924820/ross_m_starr_general_equilibrium_theory.html}
-  \end{APACrefURL}
+\APACaddressPublisher{}{John Wiley and Sons Ltd.}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
