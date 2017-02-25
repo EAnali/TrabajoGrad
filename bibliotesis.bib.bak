@@ -1,113 +1,3 @@
-% Encoding: UTF-8
-
-@Article{art,
-  author  = {Ricardo S. Molina},
-  title   = {Los grandes hitos de la Teoría de Juegos},
-  journal = {Revista Digital de Educación},
-  year    = {2007},
-  volume  = {Volumen I},
-  issn    = {1988-0227},
-}
-
-@Misc{math486,
-  author = {Christopher Griffin},
-  title  = {Game Theory: Penn State Math 486 Lecture Notes},
-  year   = {2010-2012},
-}
-
-@Book{TJperez,
-  title     = {Teoría de Juegos},
-  publisher = {Pearson Educación, S.A.},
-  year      = {Madrid, 2004},
-  author    = {E. Cerdá Tena, J. Pérez Navarro, J. L. Jimeno Pastor},
-  editor    = {David Fayerman Aragón},
-  isbn      = {978-84-2799-2},
-}
-
-@Book{9780262061414,
-  title     = {Game Theory},
-  publisher = {The MIT Press},
-  author    = {Fudenberg, Drew and Tirole, Jean},
-  isbn      = {0-262-06141-4},
-  ean       = {9780262061414},
-  url       = {http://www.ebook.de/de/product/3241100/drew_fudenberg_jean_tirole_game_theory.html},
-}
-
-@Book{tgross,
-  title     = {General Equilibrium Theory},
-  publisher = {Cambridge University Press},
-  year      = {2011},
-  author    = {Starr, Ross M.},
-  isbn      = {978-0-521-82645-7},
-  date      = {2011-04-25},
-  ean       = {9780521826457},
-  pagetotal = {380},
-  url       = {http://www.ebook.de/de/product/19924820/ross_m_starr_general_equilibrium_theory.html},
-}
-
-@Book{gtgibbons,
-  title     = {Game Theory for Applied Economists},
-  publisher = {PRINCETON UNIV PR},
-  year      = {1992},
-  author    = {Gibbons, Robert},
-  isbn      = {978-0-691-00395-5},
-  date      = {1992-08-11},
-  ean       = {9780691003955},
-  pagetotal = {288},
-  url       = {http://www.ebook.de/de/product/2519019/robert_gibbons_game_theory_for_applied_economists.html},
-}
-
-@Book{OITintross,
-  title     = {Introduction to Social Security},
-  publisher = {International Labour Org},
-  year      = {1984},
-  isbn      = {92-2-103638-3},
-  url       = {https://www.amazon.com/Introduction-to-Social-Security/dp/9221036383%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221036383},
-}
-
-@Book{OITmhcf,
-  title     = {Modelling in Health Care Finance: A Compendium of Quantitative Techniques for Health Care Financing},
-  publisher = {International Labor Office},
-  year      = {1999},
-  author    = {Michael Cichon and Hiroshi Yamabana and Axel Weber and William C. Newbrander and Charles Normand and David Dror and Alexander Preker},
-  isbn      = {92-2-110862-7},
-  url       = {https://www.amazon.com/Modelling-Health-Care-Finance-Quantitative/dp/9221108627%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108627},
-}
-
-@Book{OITapss,
-  title     = {Actuarial Practice in Social Security (Quantitative Methods in Social Protection)},
-  publisher = {International Labor Office},
-  year      = {2003},
-  author    = {Pierre Plamondon and Anne Drouin and Gylles Binet and Michael Cichon and Warren R. McGillivray and Michel Bedard and Hernando Perez-Montas},
-  isbn      = {92-2-110863-5},
-  url       = {https://www.amazon.com/Actuarial-Practice-Security-Quantitative-Protection/dp/9221108635%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635},
-}
-
-@Book{OITamssp,
-  title     = {Actuarial Mathematics of Social Security Pensions},
-  publisher = {International Labour Org},
-  year      = {1999},
-  author    = {Subramaniam Iyer},
-  isbn      = {92-2-110866-x},
-  url       = {https://www.amazon.com/Actuarial-Mathematics-Social-Security-Pensions/dp/922110866X%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D922110866X},
-}
-
-@Manual{ILOm,
-  title        = {The ILO Population Projection Model (ILO-POP) A Technical Guide},
-  organization = {International Labour Office (OIT)},
-  address      = {Financial, Actuarial and Statistical Services Branch Social Protection Sector International Labour Office 4 route des Morillons CH-1211 Geneva 22 Switzerland},
-  month        = aug,
-  year         = {2002},
-  isbn         = {92-2-112749-4},
-}
-
-@Manual{ILOpm,
-  title = {The ILO Pension Model A Technical Guide},
-  month = aug,
-  year  = {2002},
-  isbn  = {92-2-111539-9},
-}
-
 @Book{ILOqmsps,
   title     = {Social Budgeting},
   publisher = {Brookings Inst Pr},
@@ -118,12 +8,70 @@
 }
 
 @Book{ILOfsp,
-  title     = {Financing Social Protection (Quantitative Methods in Social Protection)},
-  publisher = {International Labor Office},
-  year      = {2005},
-  author    = {Michael Cichon and Wolfgang Scholz and Arthur van de Meerendonk and Krzysztof Hagemejer and Fabio Bertranou and Pierre Plamondon},
-  isbn      = {92-2-115122-0},
-  url       = {https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/9221151220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220},
+	title     = {Financing Social Protection (Quantitative Methods in Social Protection)},
+	publisher = {International Labor Office},
+	year      = {2005},
+	author    = {Michael Cichon and Wolfgang Scholz and Arthur van de Meerendonk and Krzysztof Hagemejer and Fabio Bertranou and Pierre Plamondon},
+	isbn      = {92-2-115122-0},
+	url       = {https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/922115122003FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220036383},
+@Book{OITmhcf,
+	title     = {Modelling in Health Care Finance: A Compendium of Quantitative Techniques for Health Care Financing},
+	publisher = {International Labor Office},
+	year      = {1999},
+	author    = {Michael Cichon and Hiroshi Yamabana and Axel Weber and William C. Newbrander and Charles Normand and David Dror and Alexander Preker},
+	isbn      = {92-2-110862-7},
+	url       = {https://www.amazon.com/Modelling-Health-Care-Finance-Quantitative/dp/9221108627%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108627},
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
+@Book{gale,
+	title     = {Elementos de Cálculo Actuarial},
+	publisher = {Ediciones Macchi},
+	year      = {1978},
+	author    = {Jose Gonzalez Galé},
+	edition   = {Quinta Edición},
+}
+
+@Book{OITamssp,
+	title     = {Actuarial Mathematics of Social Security Pensions},
+	publisher = {International Labour Org},
+	year      = {1999},
+	author    = {Subramaniam Iyer},
+	isbn      = {92-2-110866-x},
+	url       = {https://www.amazon.com/Actuarial-Mathematics-Social-Security-Pensions/dp/922110866X%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D922110866X},
+}
+
+@Book{bowers,
+	title     = {Actuarial Mathematics},
+	publisher = {The Society of Acturies},
+	year      = {1997},
+	author    = {Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt},
+	editor    = {David Anderson},
+	edition   = {Segunda Edicion},
+	isbn      = {0-938959-46-8},
+}
+
+@Book{OITapss,
+	title     = {Actuarial Practice ing ocial SecurityProtectitative Methods in Social Protection)},
+	publisher = {International Labor Office},
+	year      = {2003},
+	author    = {Pierre Plamondon and Anne Drouin and Gylles Binet and Michael Cichonk nd Warren R. McGillivrayKrzysztof Hagemejer and Michel Bedard and HernFabio Bertranou rre Plamondon},             {92-2-110863-55122-0},               {https://www.amazon.com/Actuarial-Practice-SecurityFinancing-Social-Protection-Quantitative-ProtectionMethods/dp/922110863551220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635},
+}
+
+
+@Book{wiley,
+	title     = {Fundamentals of Actuarial Mathematics},
+	publisher = {John Wiley and Sons Ltd.},
+	year      = {2015},
+	author    = {S. David Promislow},
+	edition   = {Tercera Edición},
+	isbn      = {978-1-118-78246-0},
+}
+
+@Book{OITintross,
+	title     = {Introduction to Social Security},
+	publisher = {International Labour Org},
+	year      = {1984},
+	isbn      = {92-2-103638-3},
+	url       = {https://www.amazon.com/Introduction-to-Social-Security/dp/9221036383%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221036383},
+}
+
