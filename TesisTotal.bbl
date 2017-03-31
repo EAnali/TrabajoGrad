@@ -35,31 +35,32 @@ Cichon%
 \ \protect \BOthers {.}}{%
 Cichon%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2005}}%
+{\protect \APACyear {1999}}%
 }]{%
-ILOfsp}
+OITmhcf}
 \APACinsertmetastar {%
-ILOfsp}%
+OITmhcf}%
 \begin{APACrefauthors}%
 Cichon, M.%
-, Scholz, W.%
-, van~de Meerendonk, A.%
-, Hagemejer, K.%
-, Bertranou, F.%
-\BCBL {}\ \BBA {} Plamondon, P.%
+, Yamabana, H.%
+, Weber, A.%
+, Newbrander, W\BPBI C.%
+, Normand, C.%
+, Dror, D.%
+\BCBL {}\ \BBA {} Preker, A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2005}.
+\APACrefYear{1999}.
 \newblock
-\APACrefbtitle {Financing Social Protection (Quantitative Methods in Social
-  Protection)} {Financing social protection (quantitative methods in social
-  protection)}.
+\APACrefbtitle {Modelling in Health Care Finance: A Compendium of Quantitative
+  Techniques for Health Care Financing} {Modelling in health care finance: A
+  compendium of quantitative techniques for health care financing}.
 \newblock
 \APACaddressPublisher{}{International Labor Office}.
 \newblock
 \begin{APACrefURL}
-  \url{https://www.amazon.com/Financing-Social-Protection-Quantitative-Methods/dp/922115122003FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221151220036383}
+  \url{https://www.amazon.com/Modelling-Health-Care-Finance-Quantitative/dp/9221108627%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108627}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -158,35 +159,6 @@ Newton L.~Bowers, H\BPBI U\BPBI G\BPBI J\BPBI C\BPBI H\BPBI D\BPBI A\BPBI
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Plamondon%
-\ \protect \BOthers {.}}{%
-Plamondon%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2003}}%
-}]{%
-OITapss}
-\APACinsertmetastar {%
-OITapss}%
-\begin{APACrefauthors}%
-Plamondon, P.%
-, Drouin, A.%
-, Binet, G.%
-, nd Warren R. McGillivrayKrzysztof~Hagemejer, M\BPBI C.%
-, Bedard, M.%
-\BCBL {}\ \BBA {} rre Plamondon, H\BPBI B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2003}.
-\newblock
-\APACrefbtitle {Actuarial Practice ing ocial SecurityProtectitative Methods in
-  Social Protection)} {Actuarial practice ing ocial securityprotectitative
-  methods in social protection)}.
-\newblock
-\APACaddressPublisher{}{International Labor Office}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Promislow%
 }{%
 Promislow%
@@ -207,6 +179,31 @@ Promislow, S\BPBI D.%
   actuarial mathematics}\ (\PrintOrdinal{Tercera Edición}\ \BEd).
 \newblock
 \APACaddressPublisher{}{John Wiley and Sons Ltd.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Quetzalli Atlatenco~Ibarra%
+}{%
+Quetzalli Atlatenco~Ibarra%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+mex}
+\APACinsertmetastar {%
+mex}%
+\begin{APACrefauthors}%
+Quetzalli Atlatenco~Ibarra, M\BPBI d\BPBI P\BPBI A\BPBI R., María Antonieta
+  Martín~Granados.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{noviembre}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Planes ocupacionales de pensiones otorgadas por empresas
+  agrupadas en cámaras comerciales} {Planes ocupacionales de pensiones
+  otorgadas por empresas agrupadas en cámaras comerciales}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Perspectivas}{}{}{105-136}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

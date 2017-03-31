@@ -1,3 +1,4 @@
+% Encoding: UTF-8
 @Book{ILOqmsps,
   title     = {Social Budgeting},
   publisher = {Brookings Inst Pr},
@@ -6,8 +7,7 @@
   isbn      = {92-2-110861-9},
   url       = {https://www.amazon.com/Social-Budgeting-Michael-Cichon/dp/9221108619%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108619},
 }
-
-@Book{ILOfsp,
+{ILOfsp,
 	title     = {Financing Social Protection (Quantitative Methods in Social Protection)},
 	publisher = {International Labor Office},
 	year      = {2005},
@@ -49,8 +49,7 @@
 	edition   = {Segunda Edicion},
 	isbn      = {0-938959-46-8},
 }
-
-@Book{OITapss,
+{OITapss,
 	title     = {Actuarial Practice ing ocial SecurityProtectitative Methods in Social Protection)},
 	publisher = {International Labor Office},
 	year      = {2003},
@@ -75,3 +74,14 @@
 	url       = {https://www.amazon.com/Introduction-to-Social-Security/dp/9221036383%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221036383},
 }
 
+@Article{mex,
+  author  = {Quetzalli Atlatenco Ibarra, María Antonieta Martín Granados , María del Pilar Alonso Reyes},
+  title   = {Planes ocupacionales de pensiones otorgadas por empresas agrupadas en cámaras comerciales},
+  journal = {Perspectivas},
+  year    = {2016},
+  pages   = {105-136},
+  month   = {noviembre},
+  issn    = {1994-3733},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

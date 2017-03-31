@@ -15,14 +15,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliotesis.bib
-"{" immediately follows a field name---line 33 of file bibliotesis.bib
- : @Book
- :      {OITmhcf,
-I'm skipping whatever remains of this entry
-You're missing a field name---line 113 of file bibliotesis.bib
- :  author    = {Pierre Plamondon and Anne Drouin and Gylles Binet and Michael Cichonk nd Warren R. McGillivrayKrzysztof Hagemejer and Michel Bedard and HernFabio Bertranou rre Plamondon},             
- :                                                                                                                                                                                                       {92-2-110863-55122-0},               {https://www.amazon.com/Actuarial-Practice-SecurityFinancing-Social-Protection-Quantitative-ProtectionMethods/dp/922110863551220%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9221108635},
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "art"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
@@ -71,43 +63,43 @@ Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hic
 while executing---line 5079 of file apacite.bst
 You've used 8 entries,
             6951 wiz_defined-function locations,
-            1322 strings with 12699 characters,
-and the built_in function-call counts, 14080 in all, are:
-= -- 1774
-> -- 115
-< -- 561
-+ -- 661
+            1323 strings with 12667 characters,
+and the built_in function-call counts, 14281 in all, are:
+= -- 1818
+> -- 98
+< -- 603
++ -- 706
 - -- 14
-* -- 825
-:= -- 2366
+* -- 850
+:= -- 2489
 add.period$ -- 31
 call.type$ -- 8
-change.case$ -- 135
+change.case$ -- 137
 chr.to.int$ -- 0
 cite$ -- 16
-duplicate$ -- 445
-empty$ -- 653
-format.name$ -- 199
-if$ -- 2795
+duplicate$ -- 417
+empty$ -- 637
+format.name$ -- 163
+if$ -- 2801
 int.to.chr$ -- 0
 int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 194
+newline$ -- 190
 num.names$ -- 58
-pop$ -- 370
+pop$ -- 338
 preamble$ -- 1
-purify$ -- 31
+purify$ -- 33
 quote$ -- 0
-skip$ -- 860
+skip$ -- 881
 stack$ -- 0
-substring$ -- 738
-swap$ -- 221
-text.length$ -- 16
+substring$ -- 789
+swap$ -- 211
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 664
 warning$ -- 0
-while$ -- 70
+while$ -- 62
 width$ -- 0
-write$ -- 234
-(There were 24 error messages)
+write$ -- 223
+(There were 22 error messages)
