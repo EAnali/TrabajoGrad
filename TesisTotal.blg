@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2016/W32TeX)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: TesisTotal.aux
-A level-1 auxiliary file: tch1a.aux
+A level-1 auxiliary file: tch1.aux
 A level-1 auxiliary file: tch2.aux
 A level-1 auxiliary file: c_y_r.aux
 The style file: apacite.bst
@@ -15,7 +15,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliotesis.bib
-Warning--I didn't find a database entry for "art"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hickman, Donald A. Jones y Cecil J. Nesbitt" for entry bowers
 while executing---line 5062 of file apacite.bst
@@ -63,28 +62,28 @@ Too many commas in name 1 of "Newton L. Bowers, JR, Hans U. Gerber, James C. Hic
 while executing---line 5079 of file apacite.bst
 You've used 8 entries,
             6951 wiz_defined-function locations,
-            1323 strings with 12667 characters,
-and the built_in function-call counts, 14281 in all, are:
+            1320 strings with 12429 characters,
+and the built_in function-call counts, 14260 in all, are:
 = -- 1818
 > -- 98
 < -- 603
 + -- 706
 - -- 14
-* -- 850
+* -- 846
 := -- 2489
 add.period$ -- 31
 call.type$ -- 8
 change.case$ -- 137
 chr.to.int$ -- 0
 cite$ -- 16
-duplicate$ -- 417
-empty$ -- 637
+duplicate$ -- 415
+empty$ -- 632
 format.name$ -- 163
-if$ -- 2801
+if$ -- 2796
 int.to.chr$ -- 0
 int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 190
+newline$ -- 188
 num.names$ -- 58
 pop$ -- 338
 preamble$ -- 1
@@ -93,7 +92,7 @@ quote$ -- 0
 skip$ -- 881
 stack$ -- 0
 substring$ -- 789
-swap$ -- 211
+swap$ -- 210
 text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 1
@@ -101,5 +100,5 @@ type$ -- 664
 warning$ -- 0
 while$ -- 62
 width$ -- 0
-write$ -- 223
+write$ -- 221
 (There were 22 error messages)

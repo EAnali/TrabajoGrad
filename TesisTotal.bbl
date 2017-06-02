@@ -114,9 +114,9 @@ Iyer%
 }{%
 {\protect \APACyear {1999}}%
 }]{%
-OITamssp}
+778}
 \APACinsertmetastar {%
-OITamssp}%
+778}%
 \begin{APACrefauthors}%
 Iyer, S.%
 \end{APACrefauthors}%
@@ -128,10 +128,6 @@ Iyer, S.%
   mathematics of social security pensions}.
 \newblock
 \APACaddressPublisher{}{International Labour Org}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.amazon.com/Actuarial-Mathematics-Social-Security-Pensions/dp/922110866X%3FSubscriptionId%3D0JYN1NVW651KCA56C102%26tag%3Dtechkie-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D922110866X}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
